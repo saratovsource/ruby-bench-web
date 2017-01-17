@@ -66,4 +66,3 @@ bundle exec rake test
 
 ## Discussion
 Discuss features and direction of project: http://community.rubybench.org
-ss
